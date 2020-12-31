@@ -1,0 +1,11 @@
+Tampilan masih ambigu
+ada chart / tables yg bisa menunjukan informasi atau kondisi  saham
+pengujian akurasi (bagusnya minimal 80%). tuliskan cara pengujian dan akurasi
+data yang digunakan 
+perhitungan manual dan perhitungan program untuk pengujian
+
+
+- Tampilan data cluster dan data cluster hasil perangkingan diubah untuk dapat memperlihatkan hasil perangkingan
+- data yang digunakan adalah rata-rata 240 hari terkhir, bukan 30 hari
+- Pengujian akurasi metode perlu dicoba lagi.
+- Belum ada chart/graph/tabel yang menunjukkan kondisi pergerakan saham
